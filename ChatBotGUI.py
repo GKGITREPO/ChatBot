@@ -137,7 +137,7 @@ class ChatBotGUI(object):
     '''Method to display the contact details '''
 
     def contactDetails(self):
-        messagebox.showinfo('Contacts', "gopakumar.344@gmail.com")
+        messagebox.showinfo('Contacts', "gopakumar344@gmail.com")
 
     def inputList(self):
 
